@@ -6,10 +6,10 @@
   <project name="SiliconAcid/android_vendor_lge_vs980" path="vendor/lge/vs980" remote="silicon" />
   <project name="SiliconAcid/android_vendor_lge_vs985" path="vendor/lge/vs985" remote="silicon" />
   <project name="SiliconAcid/BeanStalkLP_local_manifests" path=".repo/local_manifests" remote="silicon" />
-  <project name="CyanogenMod/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="cm-12.1" />
-  <project name="CyanogenMod/android_kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="cm-12.1" />
-  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.1" />
-  <project name="CyanogenMod/android_external_lz4" path="external/lz4" remote="github" revision="cm-12.1" />
+  <project name="CyanogenMod/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="cm-12.0" />
+  <project name="CyanogenMod/android_kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="cm-12.0" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.0" />
+  <project name="CyanogenMod/android_external_lz4" path="external/lz4" remote="github" revision="cm-12.0" />
   <remove-project name="platform/prebuilts/android-emulator" />
   <remove-project name="platform/prebuilts/clang/darwin-x86/3.1" />
   <remove-project name="platform/prebuilts/clang/darwin-x86/3.2" />
