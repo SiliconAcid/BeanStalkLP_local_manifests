@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://github.com" name="silicon" revision="master" />
-  <project name="SiliconAcid/android_device_lge_vs980" path="device/lge/vs980" remote="silicon" />
-  <project name="SiliconAcid/android_device_lge_vs985" path="device/lge/vs985" remote="silicon" />
-  <project name="SiliconAcid/android_vendor_lge_vs980" path="vendor/lge/vs980" remote="silicon" />
-  <project name="SiliconAcid/android_vendor_lge_vs985" path="vendor/lge/vs985" remote="silicon" />
-  <project name="SiliconAcid/BeanStalkLP_local_manifests" path=".repo/local_manifests" remote="silicon" />
+  <remote fetch="https://github.com" name="origin" revision="master" />
+  <project name="SiliconAcid/android_device_lge_vs980" path="device/lge/vs980" remote="origin" />
+  <project name="SiliconAcid/android_device_lge_vs985" path="device/lge/vs985" remote="origin" />
+  <project name="SiliconAcid/android_vendor_lge_vs980" path="vendor/lge/vs980" remote="origin" />
+  <project name="SiliconAcid/android_vendor_lge_vs985" path="vendor/lge/vs985" remote="origin" />
+  <project name="SiliconAcid/BeanStalkLP_local_manifests" path=".repo/local_manifests" remote="origin" />
   <project name="CyanogenMod/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.0" />
