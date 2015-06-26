@@ -17,4 +17,7 @@
   <remove-project name="platform/prebuilts/clang/darwin-x86/host/3.5" />
   <remove-project name="platform/prebuilts/clang/darwin-x86/mips/3.3" />
   <remove-project name="platform/prebuilts/clang/darwin-x86/x86/3.3" />
+  <remove-project name="scotthartbti/android_frameworks_base" />
+  <project name="SiliconAcid/android_frameworks_base" path="frameworks/base" remote="origin" />
+  <project name="SiliconAcid/proprietary_vendor_lge_g3-common" path="vendor/lge/g3-common" remote="origin" />
 </manifest>
