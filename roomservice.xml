@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://github.com" name="origin" revision="master" />
-  <remote fetch="https://github.com/Sabermod" name="sm" revision="master" />
+  <remote fetch="https://github.com/SaberMod" name="sm" revision="master" />
   <project name="SiliconAcid/android_device_lge_vs980" path="device/lge/vs980" remote="origin" />
   <project name="SiliconAcid/android_device_lge_vs985" path="device/lge/vs985" remote="origin" />
   <project name="SiliconAcid/android_vendor_lge_vs980" path="vendor/lge/vs980" remote="origin" />
@@ -23,6 +23,6 @@
   <project name="SiliconAcid/android_frameworks_base" path="frameworks/base" remote="origin" />
   <project name="SiliconAcid/proprietary_vendor_lge_g3-common" path="vendor/lge/g3-common" remote="origin" />
   <project name="SiliconAcid/android_vendor_beanstalkLP" path="vendor/beanstalk" remote="origin" />
-  <project name="Sabermod/sabermod_toolchain_build/arm-eabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" remote="sm" />
-  <project name="Sabermod/sabermod_toolchain_build/arm-androideabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-androideabi-4.9" remote="sm" />
+  <project name="SaberMod/sabermod_toolchain_build/arm-eabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" remote="sm" />
+  <project name="SaberMod/sabermod_toolchain_build/arm-androideabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-androideabi-4.9" remote="sm" />
 </manifest>
