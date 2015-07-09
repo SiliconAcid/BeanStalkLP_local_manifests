@@ -23,6 +23,4 @@
   <project name="SiliconAcid/android_frameworks_base" path="frameworks/base" remote="origin" />
   <project name="SiliconAcid/proprietary_vendor_lge_g3-common" path="vendor/lge/g3-common" remote="origin" />
   <project name="SiliconAcid/android_vendor_beanstalkLP" path="vendor/beanstalk" remote="origin" />
-  <project name="SaberMod/sabermod_toolchain_build/arm-eabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" remote="sm" />
-  <project name="SaberMod/sabermod_toolchain_build/arm-androideabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-androideabi-4.9" remote="sm" />
 </manifest>
