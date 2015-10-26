@@ -9,7 +9,7 @@
   <project name="SiliconAcid/BeanStalkLP_local_manifests" path=".repo/local_manifests" remote="origin" />
   <project name="CyanogenMod/android_kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.0" />
-  <remove-project name="vendor/cyngn" />
+  <remove-project name="cyngn/android_vendor_cyngn" />
   <remove-project name="platform/prebuilts/android-emulator" />
   <remove-project name="platform/prebuilts/clang/darwin-x86/3.1" />
   <remove-project name="platform/prebuilts/clang/darwin-x86/3.2" />
