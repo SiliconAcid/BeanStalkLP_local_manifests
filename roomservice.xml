@@ -19,4 +19,8 @@
   <remove-project name="platform/prebuilts/clang/darwin-x86/mips/3.3" />
   <remove-project name="platform/prebuilts/clang/darwin-x86/x86/3.3" />
   <project name="SiliconAcid/proprietary_vendor_lge_g3-common" path="vendor/lge/g3-common" remote="origin" />
+  <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" />
+  <project name="ArchiDroid/Toolchain" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" remote="github" revision="architoolchain-5.2-arm-linux-gnueabihf" />
+  <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" />
+  <project name="ArchiDroid/Toolchain" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" remote="github" revision="uber-4.9-arm-linux-androideabi" />
 </manifest>
